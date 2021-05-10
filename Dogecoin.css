@@ -1,0 +1,82 @@
+body {
+    background-color: #dddddd;
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, sans-serif;
+}
+
+#wrap {
+    width: 70%;
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+header img {
+    width: 100%;
+}
+
+header {
+    padding: 40px;
+    background-color: floralwhite;
+}
+
+nav {
+    background-color: #EFD729;
+    padding: 20px;
+    text-align: center;
+    font-family: Impact, fantasy;
+}
+
+nav a {
+    color: white;
+    padding: 20px 30px;
+    text-decoration: none;
+    font-size: 120%
+}
+
+nav a:hover{
+    background-color: #5686DA;
+    color: navy;
+}
+
+nav li{
+    display: inline;
+}
+
+nav ul{
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    padding: 1% 4%;
+    overflow: auto;
+}
+
+section h1, section h2{
+    color: #EFD729;
+    font-family: Jazz LET, fantasy;
+    font-size: 180%;
+}
+
+section h2 {
+    color: #ec3d0f;
+    font-size: 140%;
+}
+
+section p {
+    font-family: Jazz LET, fantasy;
+    font-size: 280%;
+}
+
+footer {
+    background-color: #EFD729;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+.season {
+    width: 30%;
+    float: right;
+}
